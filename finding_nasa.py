@@ -1,6 +1,3 @@
-# Python-project-demo
-Python-project-demo
-
 import math
 import requests
 
